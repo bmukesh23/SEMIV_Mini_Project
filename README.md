@@ -14,11 +14,16 @@
 4. You can include any video as your wish by modifying the lane.py file. (here video.m4v is the selected video)
 
 
-# Screenshots:
+## Screenshots:
 
-![Screenshot 1](results/ss1.png)
-![Screenshot 2](results/ss2.png)
-![Screenshot 3](results/ss3.png)
+<details>
+  <summary>Click to view screenshots</summary>
+
+  ![Screenshot 1](results/ss1.png)
+  ![Screenshot 2](results/ss2.png)
+  ![Screenshot 3](results/ss3.png)
+
+</details>
 
 # Reference:
 https://github.com/ultralytics/yolov5
